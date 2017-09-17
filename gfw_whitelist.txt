@@ -146,6 +146,7 @@
 ||cdog.me
 ||ce.cn
 ||cee.network
+||chatr.kmahyyg.xyz
 ||china.com
 ||chinassl.net
 ||chinaunix.net

@@ -3,6 +3,7 @@
 /.+edu.cn/
 /.+gov.cn/
 /113\.55\.\d+\.\d+/
+/120\.77\.\d+\.\d+/
 /183\.60\.187\.110/
 /192\.168\.\d+\.\d+/
 /210\.34\.4\.28/
@@ -191,6 +192,7 @@
 ||diybeta.com
 ||diyvm.com
 ||dm5.com
+||dmzj.com
 ||dnspod.cn
 ||docin.com
 ||douban.com
@@ -281,6 +283,7 @@
 ||ip-api.com
 ||ipip.net
 ||iplaysoft.com
+||iqing.in
 ||iqiyi.com
 ||it168.com
 ||itc.cn
@@ -292,6 +295,7 @@
 ||jandan.net
 ||javaeye.com
 ||jb51.net
+||jcodecraeer.com
 ||jd.com
 ||jhdec.com
 ||jianguoyun.com
@@ -572,6 +576,7 @@
 ||xycdn.com
 
 ! Y
+||yamibo.com
 ||yaohuo.me
 ||yecdn.com
 ||yesky.com

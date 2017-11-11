@@ -6,6 +6,8 @@
 /120\.77\.\d+\.\d+/
 /183\.60\.187\.110/
 /192\.168\.\d+\.\d+/
+/113\.55\.\d+\.\d+/
+/202\.203\.208\.\d+/
 /210\.34\.4\.28/
 
 ! Subdomain
@@ -58,6 +60,7 @@
 
 ! 5
 ||51.la
+||55aiguo.xyz
 ||51cto.com
 ||51job.com
 ||52pojie.cn
@@ -315,6 +318,7 @@
 ||kekenet.com
 ||kf5.com
 ||kmf.com
+||kmahyyg.xyz
 ||knownsec.com
 ||krspace.cn
 ||ku6.com

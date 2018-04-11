@@ -78,6 +78,7 @@
 
 ! 9
 ||91.com
+||95516.com
 
 ! A
 ||acfun.cn
@@ -540,6 +541,7 @@
 ||ubuntu.org.cn
 ||uisdc.com
 ||umeng.com
+||unionpaysecure.com
 ||upaiyun.com
 ||upyun.com
 ||ustc.edu.cn
